@@ -1,4 +1,4 @@
-# INNOVATIVE-SOLUTIONS Assignment
+# INNOVATIVE SOLUTIONS ASSIGNMENT
  Laravel 5.8
 
 ## Installation
@@ -13,6 +13,11 @@ $ composer install
 ```bash
 $ composer update           
 ```
+
+```bash
+php artisan key:generate
+```
+
 ## Add new .env file and create new DB in your local server
 
 after adding DB_DATABASE name in .env file and created in your local server
